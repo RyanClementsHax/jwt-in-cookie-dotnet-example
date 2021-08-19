@@ -1,6 +1,6 @@
 # JWT in cookie example
 
-This is designed to showcase a proof of concept of using a jwt in a cookie for authn and authz with a aspnet core backend.
+This is designed to showcase a proof of concept of using a jwt in a cookie for authn and authz with a aspnet core backend. This is based on [dotnet-labs/JwtAuthDemo](https://github.com/dotnet-labs/JwtAuthDemo).
 
 ## Medium Articles
 
